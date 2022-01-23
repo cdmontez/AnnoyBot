@@ -1,5 +1,9 @@
-# 𝓌𝒽𝒶𝓉 𝓏𝑒 𝒽𝑒𝓁𝓁.𝑜
-#### Don't question why it is styled like that because I will not tell you.
+# Setup
 
-## Setup
 Make a `.env` file with this template:
+
+```js
+TOKEN = "DISCORD BOT TOKEN"
+MEMBERID = "ID OF MEMBER YOU WANT TO WATCH AND PING"
+GAME = "GAME YOU WANT TO PING THEM FOR PLAYING"
+```
